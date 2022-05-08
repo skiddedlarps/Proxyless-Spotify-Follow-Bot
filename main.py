@@ -32,6 +32,8 @@ print(Colors.blue + """
     Made by Qezy#1337
 """)
 
+clear()
+
 spotify_profile = str(input("Spotify Link or Username: "))
 threads = int(input("\nThreads: "))
 
